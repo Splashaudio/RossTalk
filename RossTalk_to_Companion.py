@@ -8,7 +8,7 @@ import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Connect the socket to the server
-server_address = ('localhost', 7788)
+server_address = ('localhost', 7788) #change localhost to an IP address ir running remotly
 sock.connect(server_address)
 
 # Send the data
