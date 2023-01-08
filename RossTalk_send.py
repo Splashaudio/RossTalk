@@ -1,5 +1,5 @@
 #sends RossTalk commands.
-#Sending to Companion for the moment until studio install is finished
+#Sending to BitFocus Companion for the moment until studio install is finished
 #edit
 
 import socket
