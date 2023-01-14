@@ -1,7 +1,8 @@
 #sends RossTalk command to Companion. Just used as a test before installing Ross router.
 #Runs on Raspberry Pi pico
-#edit
-#another
+#github.com/Splashaudio/RossTalk
+
+
 import time
 import network
 import usocket
