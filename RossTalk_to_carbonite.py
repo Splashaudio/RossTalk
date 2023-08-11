@@ -13,6 +13,7 @@ sock.connect(server_address)
 # Send the data
 
 #data = b'MECUT ME:P/P\r\n'  #sends CUT to Carbonite
+
 #data = b'XPT AUX:2:IN:3\r\n'   #cuts aux 2 to input 3
 
 data = b'XPT ME:P/P:PGM:IN:2\r\n'   #cut to and input on the ME P/P row
