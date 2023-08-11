@@ -1,4 +1,4 @@
-#sends RossTalk commands to Carbonite to cut to input on program buss
+#sends RossTalk commands to Carbonite to cut to input
 
 import socket
 
